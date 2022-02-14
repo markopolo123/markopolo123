@@ -19,7 +19,15 @@
 <details>
   <summary><b>:astronaut: Exploring..</b></summary>
   <br/>
+   
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)<br/>
 ![ebpf](https://img.shields.io/badge/ebpf-%23.svg?style=for-the-badge&logo=ebpf&logoColor=white)
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Mark's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=markopolo123&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 </details>
