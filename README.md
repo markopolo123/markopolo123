@@ -13,7 +13,7 @@
 ![ELK](https://img.shields.io/badge/-ELK-005571?style=for-the-badge&logo=elasticsearch)![Prometheus](https://img.shields.io/badge/-Prometheus-%23232323?style=for-the-badge&logo=prometheus)![Grafana](https://img.shields.io/badge/-grafana-%23232323?style=for-the-badge&logo=grafana)![Jaeger](https://img.shields.io/badge/-jaeger-%237adef5?style=for-the-badge&logo=jaeger)<br/>
 ![Vault](https://img.shields.io/badge/vault-%23363636.svg?style=for-the-badge&logo=vault&logoColor=white)![Consul](https://img.shields.io/badge/consul-%23d60d57.svg?style=for-the-badge&logo=consul&logoColor=white)<br/>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)![Openstack](https://img.shields.io/badge/openstack-%234285F4.svg?style=for-the-badge&logo=openstack&logoColor=red)<br/>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Proxmox](https://img.shields.io/badge/-proxmox-#363636?style=for-the-badge&logo=proxmox)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Proxmox](https://img.shields.io/badge/-proxmox-363636?style=for-the-badge&logo=proxmox)
 </details>
 
 <details>
